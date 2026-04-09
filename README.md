@@ -142,13 +142,8 @@ war_room_llm/
 │   ├── metrics.csv                # Product metrics (10-day time series)
 │   ├── feedback.json              # User feedback entries
 │   └── release_notes.md           # Release notes and known issues
-│
-├── logs/                          # Runtime logs (output directory)
-├── output/                        # Generated output files
-│
 ├── main.py                        # CLI entry point — runs all agents
 ├── ui.py                          # Streamlit web UI
-├── config.py                      # Configuration settings
 ├── requirements.txt               # Python dependencies
 └── README.md
 ```
