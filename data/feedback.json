@@ -1,0 +1,22 @@
+[
+  {"user_id": 1, "feedback": "Love the new feature, but the app feels slower."},
+  {"user_id": 2, "feedback": "App crashed twice after the update."},
+  {"user_id": 3, "feedback": "The UI looks cleaner, nice work."},
+  {"user_id": 4, "feedback": "Why is the app so slow now?"},
+  {"user_id": 5, "feedback": "Crashes are happening when I open the new feature."},
+  {"user_id": 6, "feedback": "Good idea, poor execution."},
+  {"user_id": 7, "feedback": "Everything was fine before this update."},
+  {"user_id": 8, "feedback": "The feature is confusing."},
+  {"user_id": 9, "feedback": "App froze on checkout."},
+  {"user_id": 10, "feedback": "Nice concept but too many bugs."},
+  {"user_id": 11, "feedback": "Works fine for me."},
+  {"user_id": 12, "feedback": "Crashes are unacceptable."},
+  {"user_id": 13, "feedback": "Performance has clearly degraded."},
+  {"user_id": 14, "feedback": "Love the redesign!"},
+  {"user_id": 15, "feedback": "Lost progress due to a crash."},
+  {"user_id": 16, "feedback": "App feels heavy now."},
+  {"user_id": 17, "feedback": "Please fix stability issues."},
+  {"user_id": 18, "feedback": "Not sure why this was released."},
+  {"user_id": 19, "feedback": "UI good, UX bad."},
+  {"user_id": 20, "feedback": "Support helped, but app still crashes."}
+]
