@@ -109,7 +109,7 @@ The system consumes three data files from the `data/` directory:
 
 | Property | Value |
 |---|---|
-| **Model** | Gemma 2B |
+| **Model** | Gemma 1B |
 | **Runtime** | Ollama (local execution) |
 | **API Keys** | Not required |
 | **Endpoint** | `http://localhost:11434` |
@@ -182,7 +182,7 @@ pip install -r requirements.txt
 2. Pull the Gemma 2B model:
 
 ```bash
-ollama run gemma:2b
+ollama run gemma3:1b
 ```
 
 Ollama runs locally at `http://localhost:11434` — no API keys required.
